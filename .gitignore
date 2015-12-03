@@ -1,2 +1,4 @@
+hashcat.bin
+hashcat.tsv
 node_modules
 *.log
